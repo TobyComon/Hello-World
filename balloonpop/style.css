@@ -1,3 +1,10 @@
 body{
-    background-color: red;
+    background-color: cornsilk;
+}
+
+.balloon{
+    height: 120px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
 }
